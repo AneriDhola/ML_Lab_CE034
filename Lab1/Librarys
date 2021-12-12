@@ -2,3 +2,4 @@ matplotlib
 sklearn
 pandas
 numpy
+nltk
